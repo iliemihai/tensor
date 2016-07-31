@@ -17,8 +17,8 @@ Sepal length  	Sepal width 	Petal length  	Petal width 	Species
      Ref:https://en.wikipedia.org/wiki/Iris_flower_data_set
      
      
-Neural networks are very good at predicting and finding patterns, from a given input to a specific output.With the training dataset above it will "guess" wich kind
-of iris flower will have the features sepal length, sepal width, petal length and petal width given as input.I have to note that the model will
+Neural networks are very good at predicting and finding patterns, from a given input to a specific output.With the training dataset above the model will "guess" wich kind
+of iris flower will have the specific features given as input.I have to note that the model will
 always predict an iris flower,even if the input features will be ridiculously different such as 100.1   300.5   234.6   432.9
 
 The model is a deep neural network, with 3 layers,each layer having 10, 20, respectively 10 neurons.For simplicity I used 
