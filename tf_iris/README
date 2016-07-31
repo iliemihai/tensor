@@ -26,7 +26,7 @@ DNNClassifier from skflow,but for much deeper studying I recomend "http://neural
 starting place for understanding this babes.Yes,neural networks are hot and sexy :P
 
 A testing dataset is given for prediction accuracy.Obviously this dataset is much smaller,but it will say how well the model is "guessing".
-On my computer the accuracy is 0.805556,prety well I say,but for better acuracy it will need a bigger training model and bigger neural
+On my computer the accuracy is 0.805556,prety well I say,but for better acuracy it will need a bigger training dataset and bigger neural
 network.That implies more computation power.
 
 In the end I tested the model with 2 arrays and voila I have my own iris flower detector.
