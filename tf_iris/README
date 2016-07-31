@@ -22,7 +22,7 @@ of iris flower the characteristics sepal length, sepal width, petal length and p
 always predict an iris flower,even if the input characteristics will be ridiculously different such as 100.1   300.5   234.6   432.9
 
 The model is a deep neural network, with 3 layers,each layer having 10, 20, respectively 10 neurons.For simplicity I used 
-DNNClassifier from skflow,but for much deeper studying I recomend "http://neuralnetworksanddeeplearning.com".It's a great
+DNNClassifier from skflow,but for much deeper studying I recomend "http://neuralnetworksanddeeplearning.com" .It's a great
 starting place for understanding this babes.Yes,neural networks are hot and sexy :P
 
 A testing dataset is given for prediction accuracy.Obviously this dataset is much smaller,but it will say how well the model is "guessing".
